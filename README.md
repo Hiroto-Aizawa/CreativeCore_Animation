@@ -6,4 +6,4 @@
 
 ## 公式サイト
 
-[Creative Core - Animation](https://learn.unity.com/pathway/creative-core/unit/animation?version=6)
+[Creative Core - Animation](https://learn.unity.com/pathway/creative-core/unit/animation?version=6.0)
